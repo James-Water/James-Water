@@ -1,4 +1,4 @@
-## Hi, I,m James 👋
+## Hi, I'm James 👋
 ## I am a Public Health Professional,Program Officer, M&E Specialist, Data Analyst and an aspiring Epidemiologist
 <!--
 **James-Water/James-Water** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
