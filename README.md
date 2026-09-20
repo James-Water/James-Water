@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, welcome to my space</h1>
 
-<h3 align="center">I'm a Public Health Professional, Programme Officer, M&E Specialist, Data Analyst, Researcher 
+<h3 align="center">I'm a Public Health Professional, Programme & MEL Officer, Data Analyst, Researcher 
   and an aspiring Epidemiologist</h3>
 
 <p align="center">I design and implement public health and community development programmes, using 
@@ -32,8 +32,8 @@ donor reporting, grant and proposal development, monitoring and evaluation, data
 ## Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/ademolu-james-a941442b7" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ademolu-james-a941442b7" target="_blank" rel="noopener noreferrer">
+    LinkedIn
   </a>
 </p>
 
